@@ -18,8 +18,6 @@ Here are some ideas to get you started:
 
 ## 🧠 Tech Stack
 
-## 🧠 Tech Stack
-
 ![Astro](https://img.shields.io/badge/Astro-0C1222?style=for-the-badge&logo=astro&logoColor=F7B93E)
 ![Eleventy](https://img.shields.io/badge/11ty-000000?style=for-the-badge&logo=eleventy&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
